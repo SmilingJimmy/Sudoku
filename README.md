@@ -18,17 +18,17 @@ Using Lingo &amp; Python to solve Sudoku problem. Copyright @ *Smiling Jimmy*
   
   清空**Out**工作簿
   
-  在**Lingo**中运行[sudoku.lg4](sudoku.lg4)
+  在**Lingo**中运行[sudoku.lg4](sudoku.lg4)，需要更改文件路径
   
   在**Out**工作簿查看结果
   
-  注意：由于该整数规划约束条件较多，需要申请License方可运行程序
+  注意：由于该整数规划约束条件较多，需要申请**License**方可运行程序
 
 - 近似穷举：[sudoku.py](sudoku.py)
 
   将[sudoku.xlsx](sudoku.xlsx)中**Puzzles**工作簿的任一数独问题复制到**Given**工作簿
   
-  运行[sudoku.py](sudoku.py)即得结果
+  运行[sudoku.py](sudoku.py)即得结果，需要更改文件路径
   
 ## 运算速度分析
 
